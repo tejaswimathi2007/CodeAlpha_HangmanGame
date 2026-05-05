@@ -1,4 +1,4 @@
-# CodeAlpha_HangmanGame
+#Hangman-game-python
 # 🎮 Hangman Game (Python)
 
 ## 📌 Project Description
